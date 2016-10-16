@@ -6,6 +6,8 @@ app = Flask(__name__)
 def hello():
     return "Hello assface!"
 
+# this route is used if a name is appended to the url
+# ie: http://127.0.0.1:5000/craigz
 @app.route('/<name>')
 def hello_name(name):
     return "Hello {}!".format(name)
