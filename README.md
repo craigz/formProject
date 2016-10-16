@@ -1,12 +1,12 @@
 # formProject
-## this is a skeleton project created to work with both flask and git. 
+## this is a skeleton project created to work with both flask and git.
 
 ---
 
-load the venv with:
-    pip install -r requirements.txt
+load the venv with:  
+    pip install -r requirements.txt  
 
-or:
+or:  
     virtualenv --no-site-packages --distribute .env && source .env/bin/activate && pip install -r requirements.txt ~~~~
 
 ---
