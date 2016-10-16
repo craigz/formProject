@@ -9,4 +9,4 @@ or:
     virtualenv --no-site-packages --distribute .env && source .env/bin/activate && pip install -r requirements.txt
 
 ---
-*** 2016 mumblingrhino.com ***
+***2016 mumblingrhino.com***
